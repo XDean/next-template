@@ -10,4 +10,7 @@ module.exports = withPlugins([
       },
     }
   )],
+  {
+    pageExtensions: ['tsx', 'mdx']
+  }
 ])
